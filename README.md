@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyux25&show_icons=true&theme=prussian)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyux25&layout=compact&theme=city_lights&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
