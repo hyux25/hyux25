@@ -2,10 +2,6 @@
 
 <p align="center">An unenthusiastic student living in South Korea.</p>
 
-
-
-![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyux25&show_icons=true&theme=prussian)
-
 ### Things that I know how to do, a little bit, or what I'm learning
 <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
@@ -18,6 +14,8 @@
 <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white"></a> 
 
+## Stats
+![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyux25&show_icons=true&theme=prussian)
 
 <!--
 **hyux25/hyux25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
